@@ -1445,7 +1445,6 @@ export type RoutePath =
   | `/huggingface/models/:group`
   | `/huijin-inv/news`
   | `/huitun/xiaohongshu/:user_id`
-  | `/humanlayer/blog`
   | `/hunanpea/rsks/:guid`
   | `/hunau/gfxy/:category?/:page?`
   | `/hunau/ied/:type?/:category?/:page?`
@@ -1479,7 +1478,6 @@ export type RoutePath =
   | `/hypergryph/arknights/arktca`
   | `/hypergryph/arknights/japan`
   | `/hypergryph/arknights/news/:group?`
-  | `/hypergryph/endfield/news/:group?`
   | `/i-cable/news/:category?`
   | `/ianspriggs/:category?`
   | `/iapp/news`
@@ -2375,7 +2373,7 @@ export type RoutePath =
   | `/qust/jw`
   | `/qweather/3days/:location`
   | `/qweather/now/:location`
-  | `/qwen/blog/:lang?`
+  | `/qwenlm/blog/:lang?`
   | `/qztc/home/:type`
   | `/qztc/jwc/:type`
   | `/qztc/sjxy/:type`

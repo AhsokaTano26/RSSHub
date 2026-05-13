@@ -3368,6 +3368,17 @@
         ],
         "target": "/njuferret/blog"
       }
+    ],
+    "qwenlm": [
+      {
+        "title": "Blog",
+        "docs": "https://docs.rsshub.app/routes/blog",
+        "source": [
+          "/blog/",
+          "/:lang/blog/"
+        ],
+        "target": "/qwenlm/qwenlm/blog/:lang"
+      }
     ]
   },
   "agri.cn": {
@@ -23188,19 +23199,6 @@
       }
     ]
   },
-  "humanlayer.dev": {
-    "_name": "HumanLayer",
-    "www": [
-      {
-        "title": "Blog",
-        "docs": "https://docs.rsshub.app/routes/blog",
-        "source": [
-          "/blog"
-        ],
-        "target": "/humanlayer/humanlayer/blog"
-      }
-    ]
-  },
   "hunanpea.com": {
     "_name": "湖南人事考试网",
     "rsks": [
@@ -24218,16 +24216,6 @@
           "/news"
         ],
         "target": "/hypergryph/arknights/news/:group?"
-      }
-    ],
-    "endfield": [
-      {
-        "title": "明日方舟：终末地 - 游戏公告与新闻",
-        "docs": "https://docs.rsshub.app/routes/game",
-        "source": [
-          "/news"
-        ],
-        "target": "/hypergryph/endfield/news/:group?"
       }
     ]
   },
@@ -45141,7 +45129,7 @@
         "title": "快讯",
         "docs": "https://docs.rsshub.app/routes/finance",
         "source": [
-          "/zh-CN/newsletter"
+          "/newsletter/index.html"
         ],
         "target": "/techflowpost/express"
       },
@@ -45149,7 +45137,7 @@
         "title": "精选",
         "docs": "https://docs.rsshub.app/routes/finance",
         "source": [
-          "/zh-CN/article"
+          "/article/index.html"
         ],
         "target": "/techflowpost/featured/:category?"
       },
@@ -45157,7 +45145,7 @@
         "title": "首页",
         "docs": "https://docs.rsshub.app/routes/finance",
         "source": [
-          "/zh-CN"
+          "/"
         ],
         "target": "/techflowpost/"
       }
