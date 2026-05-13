@@ -4413,6 +4413,9 @@
   "/huitun/xiaohongshu/:user_id": [
     "Skylwn"
   ],
+  "/humanlayer/blog": [
+    "zj1123581321"
+  ],
   "/hunanpea/rsks/:guid": [
     "TonyRL"
   ],
@@ -4520,6 +4523,9 @@
   ],
   "/hypergryph/arknights/news/:group?": [
     "Astrian"
+  ],
+  "/hypergryph/endfield/news/:group?": [
+    "E-larex"
   ],
   "/i-cable/news/:category?": [
     "quiniapiezoelectricity"
@@ -6446,32 +6452,38 @@
   "/nyaa/search/:query?": [
     "Lava-Swimmer",
     "noname1776",
-    "camera-2018"
+    "camera-2018",
+    "Q16KBreak"
   ],
   "/nyaa/user/:username?": [
     "Lava-Swimmer",
     "noname1776",
-    "camera-2018"
+    "camera-2018",
+    "Q16KBreak"
   ],
   "/nyaa/user/:username/search/:query?": [
     "Lava-Swimmer",
     "noname1776",
-    "camera-2018"
+    "camera-2018",
+    "Q16KBreak"
   ],
   "/nyaa/sukebei/search/:query?": [
     "Lava-Swimmer",
     "noname1776",
-    "camera-2018"
+    "camera-2018",
+    "Q16KBreak"
   ],
   "/nyaa/sukebei/user/:username?": [
     "Lava-Swimmer",
     "noname1776",
-    "camera-2018"
+    "camera-2018",
+    "Q16KBreak"
   ],
   "/nyaa/sukebei/user/:username/search/:query?": [
     "Lava-Swimmer",
     "noname1776",
-    "camera-2018"
+    "camera-2018",
+    "Q16KBreak"
   ],
   "/nyc/mayors-office-news/:types?/:categories?": [
     "hkamran80"
@@ -7279,7 +7291,7 @@
   "/qweather/now/:location": [
     "Rein-Ou"
   ],
-  "/qwenlm/blog/:lang?": [
+  "/qwen/blog/:lang?": [
     "Kjasn"
   ],
   "/qztc/home/:type": [
